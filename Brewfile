@@ -21,9 +21,11 @@ cask visual-studio-code
 cask goland
 cask clipy
 cask fig
-cask wrap
+cask warp
 cask raycast
 cask docker
+cask goland
+cask fork
 
 tap rcmdnk/file
 brew brew-file
