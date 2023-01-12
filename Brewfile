@@ -14,6 +14,10 @@ brew xz
 brew asdf
 brew awscli
 brew tfenv
+brew go
+brew gh
+brew peco
+brew sqldef/sqldef/mysqldef
 
 cask google-chrome
 cask google-japanese-ime
@@ -26,6 +30,15 @@ cask raycast
 cask docker
 cask goland
 cask fork
+cask notion
+cask android-studio
 
 tap rcmdnk/file
 brew brew-file
+
+tap microsoft/git
+cask git-credential-manager-core
+
+brew mas
+# mas "Magnet", id: 441258766
+
